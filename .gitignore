@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+*.so
+*.sqlite3-journal
+.env
+.venv/
+*.egg-info/
